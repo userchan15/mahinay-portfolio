@@ -13,7 +13,7 @@
 
 ## 🚀 About Me  
 Hi there! 👋  
-I am *Christian Dan Ñ Mahinay*, a passionate *Information Technology graduate* from *Pateros Technological College*, eager to bring innovative ideas to life. With a keen interest in *software development*, *web technologies*, and *problem-solving*, I enjoy creating impactful solutions that make a difference.
+I am *Christian Dan Mahinay*, a passionate *Information Technology graduate* from *Pateros Technological College*, eager to bring innovative ideas to life. With a keen interest in *software development*, *web technologies*, and *problem-solving*, I enjoy creating impactful solutions that make a difference.
 
 - 🌱 *Currently Learning:* Advanced React and Backend Development  
 - 👨‍💻 *Looking for Opportunities:* Software Development, Web Development  
