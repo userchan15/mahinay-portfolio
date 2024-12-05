@@ -1,4 +1,4 @@
-<h1 align="center">Christian Dan Ñ Mahinay</h1>  
+<h1 align="center">Christian Dan Mahinay</h1>  
 <p align="center">
   🌟 <b>Recent IT Graduate | Tech Enthusiast | Problem-Solver</b> 🌟  
 </p>
